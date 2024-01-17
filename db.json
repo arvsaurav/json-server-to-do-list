@@ -1,0 +1,22 @@
+[
+  {
+    "id": "d5ee",
+    "task": "Learn ReactJS basics",
+    "isCompleted": true
+  },
+  {
+    "id": "9d28",
+    "task": "Practice ReactJS",
+    "isCompleted": true
+  },
+  {
+    "id": "6c21",
+    "task": "Learn Redux",
+    "isCompleted": false
+  },
+  {
+    "id": "88de",
+    "task": "Make a demo project",
+    "isCompleted": true
+  }
+]
